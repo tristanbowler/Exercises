@@ -1,0 +1,1 @@
+Welcome to my coding exercises repository. Here you'll find my solutions to coding challenges on popular platforms like DailyCodingProblem or Advent of Code. 
